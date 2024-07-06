@@ -7,13 +7,13 @@
 
 ## folder structure
 
-src/
-|-- assets/
-|-- components/
-|-- models/
-|-- controllers/
-|-- views/
-|-- router/
-|-- store/
-|-- App.vue
-|-- main.js
+- src/
+    - assets/
+    - components/
+    - models/
+    - controllers/
+    - views/
+    - router/
+    - store/
+    - App.vue
+    - main.js
