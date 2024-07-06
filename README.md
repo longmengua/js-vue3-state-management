@@ -15,5 +15,6 @@
     - views/
     - router/
     - store/
+    - util/
     - App.vue
     - main.js
